@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: de05f39ca3d414d47b8dabfa0478d131
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3278139147095236340
+    second: Warrior3IdleLeft_0
+  - first:
+      213: -6665766947753318081
+    second: Warrior3IdleLeft_1
+  - first:
+      213: 2572249051230096127
+    second: Warrior3IdleLeft_2
+  - first:
+      213: -804075969084022107
+    second: Warrior3IdleLeft_3
+  - first:
+      213: 7157989998352462985
+    second: Warrior3IdleLeft_4
+  - first:
+      213: 8574826226922720230
+    second: Warrior3IdleLeft_5
+  - first:
+      213: -7527684529021387543
+    second: Warrior3IdleLeft_6
+  - first:
+      213: -3508980041124101647
+    second: Warrior3IdleLeft_7
+  - first:
+      213: 4516001785827864894
+    second: Warrior3IdleLeft_8
+  - first:
+      213: 5590567159815955529
+    second: Warrior3IdleLeft_9
+  - first:
+      213: -7140428121250028516
+    second: Warrior3IdleLeft_10
+  - first:
+      213: 2213474381321735649
+    second: Warrior3IdleLeft_11
+  - first:
+      213: 8247642629276533621
+    second: Warrior3IdleLeft_12
+  - first:
+      213: 3422056019052334423
+    second: Warrior3IdleLeft_13
+  - first:
+      213: -8916494698973822172
+    second: Warrior3IdleLeft_14
+  - first:
+      213: 8302053338450707058
+    second: Warrior3IdleLeft_15
+  - first:
+      213: -3146006950553429023
+    second: Warrior3IdleLeft_16
+  - first:
+      213: -1545623282699465749
+    second: Warrior3IdleLeft_17
+  - first:
+      213: -5799107750474716453
+    second: Warrior3IdleLeft_18
+  - first:
+      213: 6386416626599043818
+    second: Warrior3IdleLeft_19
+  - first:
+      213: -9058540407204798400
+    second: Warrior3IdleLeft_20
+  - first:
+      213: 2306073772634368538
+    second: Warrior3IdleLeft_21
+  - first:
+      213: -1435469245444660352
+    second: Warrior3IdleLeft_22
+  - first:
+      213: -1228282302572371807
+    second: Warrior3IdleLeft_23
+  - first:
+      213: -9009363836045714538
+    second: Warrior3IdleLeft_24
+  - first:
+      213: 8922995715474551141
+    second: Warrior3IdleLeft_25
+  - first:
+      213: 1279121513441340892
+    second: Warrior3IdleLeft_26
+  - first:
+      213: 945098045723053013
+    second: Warrior3IdleLeft_27
+  - first:
+      213: -1925167460529553196
+    second: Warrior3IdleLeft_28
+  - first:
+      213: -9091730865468159627
+    second: Warrior3IdleLeft_29
+  - first:
+      213: -2928352286706748860
+    second: Warrior3IdleLeft_30
+  - first:
+      213: -4372635034578646466
+    second: Warrior3IdleLeft_31
+  - first:
+      213: 7942191518412149511
+    second: Warrior3IdleLeft_32
+  - first:
+      213: -5002169968431955825
+    second: Warrior3IdleLeft_33
+  - first:
+      213: -8056251974416143266
+    second: Warrior3IdleLeft_34
+  - first:
+      213: -565912897583514251
+    second: Warrior3IdleLeft_35
+  - first:
+      213: 6263921649285129038
+    second: Warrior3IdleLeft_36
+  - first:
+      213: 7538654751379380913
+    second: Warrior3IdleLeft_37
+  - first:
+      213: -5832245447335676648
+    second: Warrior3IdleLeft_38
+  - first:
+      213: -8309192801212219937
+    second: Warrior3IdleLeft_39
+  - first:
+      213: -8738766819056449767
+    second: Warrior3IdleLeft_40
+  - first:
+      213: 7714753138788522836
+    second: Warrior3IdleLeft_41
+  - first:
+      213: 2728473702208349399
+    second: Warrior3IdleLeft_42
+  - first:
+      213: -417985786920131741
+    second: Warrior3IdleLeft_43
+  - first:
+      213: -6235639538992776050
+    second: Warrior3IdleLeft_44
+  - first:
+      213: 5025708807782875224
+    second: Warrior3IdleLeft_45
+  - first:
+      213: 2744439136272580066
+    second: Warrior3IdleLeft_46
+  - first:
+      213: -6552024183837066843
+    second: Warrior3IdleLeft_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7cbffa57c15a458d63e11c0987df0
+      internalID: 3278139147095236340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90901041133e36044b02dcea01450dcb
+      internalID: -6665766947753318081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b28b1e4ea7812498fe8086d8fdb272
+      internalID: 2572249051230096127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ae1bd8e009f046a7014bb4762f67b
+      internalID: -804075969084022107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da9a29e874bb694595689ab89372722
+      internalID: 7157989998352462985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65257972b6e6d244a349fbbb3ffe7b4
+      internalID: 8574826226922720230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241853f5cb23a864791db1f5b21f7b60
+      internalID: -7527684529021387543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c897e4ea75deb429de7160eacaa8a0
+      internalID: -3508980041124101647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff469f842a37ccd4b8b6030caa8f9740
+      internalID: 4516001785827864894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98143990e80fc5347900d81c9142f786
+      internalID: 5590567159815955529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98718ccb8e686b4f8d6295bda8f8973
+      internalID: -7140428121250028516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad00f161329a74ab727995cdd162f8
+      internalID: 2213474381321735649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d517de8381e371e45a975c8658735bb4
+      internalID: 8247642629276533621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e887ac40810f14b489f5c1130b941545
+      internalID: 3422056019052334423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457dff662f3aa041ad99b2c3aa5bf12
+      internalID: -8916494698973822172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f4c56a02cc8354db6d88b2b66679dc
+      internalID: 8302053338450707058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae7d590df28cd4d8121ba4c371f67f
+      internalID: -3146006950553429023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903aeb30ef8563b4089ffb8c1c461758
+      internalID: -1545623282699465749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583d47a612f69b4196d538626313584
+      internalID: -5799107750474716453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c287c9946414c854696166fd097e8e14
+      internalID: 6386416626599043818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b00ff3218de84cb4d1021d46ff5fc
+      internalID: -9058540407204798400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0462be723bf999844b8cd2f283256c6e
+      internalID: 2306073772634368538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb12cc273b5b94b8e9925a486688b7
+      internalID: -1435469245444660352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b1359b2a66f7b479adf74187644e5d
+      internalID: -1228282302572371807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc310f7032234048983c5a7b2f93d5a
+      internalID: -9009363836045714538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f65806c5974b04b988b46d7338d2e6
+      internalID: 8922995715474551141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57712b888e8bc34429e407a6727f4841
+      internalID: 1279121513441340892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92233f443c8dc7f4e8ed5478658ac358
+      internalID: 945098045723053013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8aaad08e352f43aedcecf9b60f454
+      internalID: -1925167460529553196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8000f96099f34185376faf1b6c842
+      internalID: -9091730865468159627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670791cd1fc49b24e926dc1dd4f866cf
+      internalID: -2928352286706748860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71acdc4c58d83e44e904b3c1ba7174de
+      internalID: -4372635034578646466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8373c68f06e53ce418ad1cb456aa9668
+      internalID: 7942191518412149511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87acf43361cbb5d43bc247c71f2285ea
+      internalID: -5002169968431955825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_34
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db060e000f6d974083069734f861102
+      internalID: -8056251974416143266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb363ff29258557418c07190473e8ddf
+      internalID: -565912897583514251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7d4dea6452629419d528c2b890e63a
+      internalID: 6263921649285129038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf76cd8b7710674a90cd27fc3f7d292
+      internalID: 7538654751379380913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cbf0e90ce9bcb4a8dc42577be87be8
+      internalID: -5832245447335676648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab241350d2e3f438057a48eec588a3
+      internalID: -8309192801212219937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_40
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652eb2eb39291f42bc8d14a301db96f
+      internalID: -8738766819056449767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_41
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0361fc76bb329fa4a8e0811c04a64950
+      internalID: 7714753138788522836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc888ec9e22a7454d9546e5b6f277cc5
+      internalID: 2728473702208349399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c212da3f443dd3409df090b019ad56f
+      internalID: -417985786920131741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29b1e8b0662c94fb7b517af158e842
+      internalID: -6235639538992776050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9299a590aac0b64397aee272335fd02
+      internalID: 5025708807782875224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ff98432e3d7f45832853974e9bab6
+      internalID: 2744439136272580066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3IdleLeft_47
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b594ca340c55d42b69fc3419f31072
+      internalID: -6552024183837066843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a59999f527249f4fbb2c4bfea58a80a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

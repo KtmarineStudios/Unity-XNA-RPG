@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 94c3b630df7677948a3f70d1fbc5fd39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 33355591419382476
+    second: GoblinIdleLeft_0
+  - first:
+      213: 8297205950867434493
+    second: GoblinIdleLeft_1
+  - first:
+      213: -7343082760349854341
+    second: GoblinIdleLeft_2
+  - first:
+      213: -5178793535164718201
+    second: GoblinIdleLeft_3
+  - first:
+      213: -2508843840926052258
+    second: GoblinIdleLeft_4
+  - first:
+      213: -4560509693071057757
+    second: GoblinIdleLeft_5
+  - first:
+      213: 7925360343221604442
+    second: GoblinIdleLeft_6
+  - first:
+      213: -1520036514991130554
+    second: GoblinIdleLeft_7
+  - first:
+      213: 6023044891970526780
+    second: GoblinIdleLeft_8
+  - first:
+      213: -3564817508397428953
+    second: GoblinIdleLeft_9
+  - first:
+      213: 6650783881573428709
+    second: GoblinIdleLeft_10
+  - first:
+      213: -7432371427988306821
+    second: GoblinIdleLeft_11
+  - first:
+      213: -5079590049161187561
+    second: GoblinIdleLeft_12
+  - first:
+      213: -4950396587244361381
+    second: GoblinIdleLeft_13
+  - first:
+      213: -3984863350759157934
+    second: GoblinIdleLeft_14
+  - first:
+      213: -8450912285735104735
+    second: GoblinIdleLeft_15
+  - first:
+      213: -1703143340817417157
+    second: GoblinIdleLeft_16
+  - first:
+      213: -5544371960264479112
+    second: GoblinIdleLeft_17
+  - first:
+      213: -3459539199120282558
+    second: GoblinIdleLeft_18
+  - first:
+      213: 3890796894104176721
+    second: GoblinIdleLeft_19
+  - first:
+      213: -8558038703348975030
+    second: GoblinIdleLeft_20
+  - first:
+      213: -2060572679494649131
+    second: GoblinIdleLeft_21
+  - first:
+      213: 913974848153201226
+    second: GoblinIdleLeft_22
+  - first:
+      213: -6710996584661243024
+    second: GoblinIdleLeft_23
+  - first:
+      213: -6037372921431614032
+    second: GoblinIdleLeft_24
+  - first:
+      213: 6468681075822012599
+    second: GoblinIdleLeft_25
+  - first:
+      213: -881736760258209046
+    second: GoblinIdleLeft_26
+  - first:
+      213: -3294390066345436861
+    second: GoblinIdleLeft_27
+  - first:
+      213: -7692626683680107176
+    second: GoblinIdleLeft_28
+  - first:
+      213: 5475403626348985092
+    second: GoblinIdleLeft_29
+  - first:
+      213: -1795267043761560507
+    second: GoblinIdleLeft_30
+  - first:
+      213: -9133711032350272184
+    second: GoblinIdleLeft_31
+  - first:
+      213: -36606393371678321
+    second: GoblinIdleLeft_32
+  - first:
+      213: 8029420537664065565
+    second: GoblinIdleLeft_33
+  - first:
+      213: -1743541049282748348
+    second: GoblinIdleLeft_34
+  - first:
+      213: -5499339112518545181
+    second: GoblinIdleLeft_35
+  - first:
+      213: 8922382430901309276
+    second: GoblinIdleLeft_36
+  - first:
+      213: 279099776074931731
+    second: GoblinIdleLeft_37
+  - first:
+      213: -2397563140381234730
+    second: GoblinIdleLeft_38
+  - first:
+      213: 4219272040988693187
+    second: GoblinIdleLeft_39
+  - first:
+      213: 8948638580580930333
+    second: GoblinIdleLeft_40
+  - first:
+      213: 7954428254153743395
+    second: GoblinIdleLeft_41
+  - first:
+      213: -8652985548526907913
+    second: GoblinIdleLeft_42
+  - first:
+      213: 506325761069615288
+    second: GoblinIdleLeft_43
+  - first:
+      213: 4281418119106924953
+    second: GoblinIdleLeft_44
+  - first:
+      213: 7955694488156267887
+    second: GoblinIdleLeft_45
+  - first:
+      213: 6740461237789866696
+    second: GoblinIdleLeft_46
+  - first:
+      213: -8935872457830079735
+    second: GoblinIdleLeft_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoblinIdleLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653ea64568cf44c4f9c1cad436a167b3
+      internalID: 33355591419382476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1176
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a8207d15eba7641af66a0ee5294998
+      internalID: 8297205950867434493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1176
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607c90513e8d74488712b59abe14a04
+      internalID: -7343082760349854341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1176
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d92d2768f1ddb4e98ece61b5af1aea
+      internalID: -5178793535164718201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1176
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa317f0e1a9209845a5327669d975087
+      internalID: -2508843840926052258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1176
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ca27dc4eb08547acfad68eee43e49
+      internalID: -4560509693071057757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6fa1c2aaa5b748a0d977f0837e999
+      internalID: 7925360343221604442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1008
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a8ce8778422f043b9aecd3fffc584b
+      internalID: -1520036514991130554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1008
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2eda9aed57e640a88d1aba5570dec
+      internalID: 6023044891970526780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1008
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a61cd2aa5959428f564502d98954d
+      internalID: -3564817508397428953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1008
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfc0aaf06fd5134bb0d1fb83b31e011
+      internalID: 6650783881573428709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1008
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194a3d092bb46e499089df3bc3b8523
+      internalID: -7432371427988306821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb48c6e5b86c44b86e05b307fc776e
+      internalID: -5079590049161187561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 840
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc26d51ef8e1f64cbeae5df1a733a09
+      internalID: -4950396587244361381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 840
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a27635b31a534f879cf929174a823
+      internalID: -3984863350759157934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 840
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd722bbe165754cad3434787a4a703
+      internalID: -8450912285735104735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 840
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a9a6c0a1c1ceb42b5ae1b6b950c1e2
+      internalID: -1703143340817417157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 840
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019fe3a18c82b66468f85e752e0348c3
+      internalID: -5544371960264479112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b39af8fdb3284abea7397f6fb4f4f
+      internalID: -3459539199120282558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 672
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea56ce67de0f548921f99435bb4eb1
+      internalID: 3890796894104176721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 672
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4ca57fdc554e1479cefed01c0a197e
+      internalID: -8558038703348975030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 672
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7418124b34c846b25086208b48fdd
+      internalID: -2060572679494649131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 672
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894199b23b81e3049a545e1a4097b614
+      internalID: 913974848153201226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 672
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d63cf6def44564693c52f6d5f4157e
+      internalID: -6710996584661243024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b63aae8d68774ca85e8a418fcdb27
+      internalID: -6037372921431614032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 504
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f609dd7340779441a0e79cf6724fb62
+      internalID: 6468681075822012599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5977fb33e5224de46a11b33d38686df8
+      internalID: -881736760258209046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 504
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e726c7c40c6fbd44acc3ba02098f9a9
+      internalID: -3294390066345436861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bfb285f2cd5bc41a60606ed9b590cf
+      internalID: -7692626683680107176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 504
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82378e5d0f41d344f8ee6d57ee98843d
+      internalID: 5475403626348985092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49084690bb9b1d46bccd555c15f096d
+      internalID: -1795267043761560507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 336
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e10912e06d07d7468592024a86a2b8e
+      internalID: -9133711032350272184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 336
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb61e1467dcbc4db43fd1b24ed989d
+      internalID: -36606393371678321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 336
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda062f18ca87c84b94aff20cc2e36ca
+      internalID: 8029420537664065565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd2b3aeb0f8e7d42ba835c2c462ce78
+      internalID: -1743541049282748348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 336
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e6f01ee1f3ff4080eea6765820c4c
+      internalID: -5499339112518545181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797bcb73b0193774c9c4cac4c6a6be41
+      internalID: 8922382430901309276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 168
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8bc757e71f574da4608965ee7c9f4
+      internalID: 279099776074931731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be986e8d33e44742a846bb87db77d2c
+      internalID: -2397563140381234730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 168
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd3641a2fe211547bdc31b10afc8ab1
+      internalID: 4219272040988693187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f75e20f17c4514a970ba03d42bd5ff
+      internalID: 8948638580580930333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_41
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 168
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204142298d9ca9468f490b9e3853299
+      internalID: 7954428254153743395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1955d496a22a545a9370a1df6a73e9
+      internalID: -8652985548526907913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752916db0a84d5e479e2140fd16d5e67
+      internalID: 506325761069615288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd078248c35b8f246bdd06e374a6a80c
+      internalID: 4281418119106924953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_45
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a467e1338c63a41478de135642a67c6c
+      internalID: 7955694488156267887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89670d2382cc043408db23f0191e6413
+      internalID: 6740461237789866696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdleLeft_47
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 126
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b2921a38e4b542adcef2ca6117b88
+      internalID: -8935872457830079735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bec1d5bb5f21d454a82a75217839ba03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

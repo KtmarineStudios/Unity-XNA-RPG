@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 1f04ce79bc3ce414887d0c6498b016a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5836199782112457484
+    second: ORCIdleLeft_0
+  - first:
+      213: -8151654656083843747
+    second: ORCIdleLeft_1
+  - first:
+      213: 4156877340546562300
+    second: ORCIdleLeft_2
+  - first:
+      213: 8472235701765939298
+    second: ORCIdleLeft_3
+  - first:
+      213: 6947886748768470039
+    second: ORCIdleLeft_4
+  - first:
+      213: -9122794243571600724
+    second: ORCIdleLeft_5
+  - first:
+      213: -6177042106079090935
+    second: ORCIdleLeft_6
+  - first:
+      213: 2311115760657872637
+    second: ORCIdleLeft_7
+  - first:
+      213: -6010028572370204476
+    second: ORCIdleLeft_8
+  - first:
+      213: 6984679689445631868
+    second: ORCIdleLeft_9
+  - first:
+      213: -7612730245683205979
+    second: ORCIdleLeft_10
+  - first:
+      213: 598383276485252278
+    second: ORCIdleLeft_11
+  - first:
+      213: 1957733182566207346
+    second: ORCIdleLeft_12
+  - first:
+      213: -7759487638724495149
+    second: ORCIdleLeft_13
+  - first:
+      213: -4239174318099382481
+    second: ORCIdleLeft_14
+  - first:
+      213: 6333527924492975530
+    second: ORCIdleLeft_15
+  - first:
+      213: -6317609506236114240
+    second: ORCIdleLeft_16
+  - first:
+      213: -1630997188212337574
+    second: ORCIdleLeft_17
+  - first:
+      213: -2370618978540418371
+    second: ORCIdleLeft_18
+  - first:
+      213: -8895809799188892647
+    second: ORCIdleLeft_19
+  - first:
+      213: -5869282534143824290
+    second: ORCIdleLeft_20
+  - first:
+      213: -6547194933698646433
+    second: ORCIdleLeft_21
+  - first:
+      213: -5923182744248335090
+    second: ORCIdleLeft_22
+  - first:
+      213: -7365449996038090209
+    second: ORCIdleLeft_23
+  - first:
+      213: 4911756700682576970
+    second: ORCIdleLeft_24
+  - first:
+      213: 4803962004595476208
+    second: ORCIdleLeft_25
+  - first:
+      213: -7591350874779638425
+    second: ORCIdleLeft_26
+  - first:
+      213: 6633180950475237299
+    second: ORCIdleLeft_27
+  - first:
+      213: -2182925679436854582
+    second: ORCIdleLeft_28
+  - first:
+      213: 6259636764216573772
+    second: ORCIdleLeft_29
+  - first:
+      213: 118770935548243712
+    second: ORCIdleLeft_30
+  - first:
+      213: -7999717149571790755
+    second: ORCIdleLeft_31
+  - first:
+      213: -1711846549410956876
+    second: ORCIdleLeft_32
+  - first:
+      213: 3836753344019984802
+    second: ORCIdleLeft_33
+  - first:
+      213: 5093214878261874698
+    second: ORCIdleLeft_34
+  - first:
+      213: -8310216601765857063
+    second: ORCIdleLeft_35
+  - first:
+      213: -1345582069331617333
+    second: ORCIdleLeft_36
+  - first:
+      213: 2575699473934101896
+    second: ORCIdleLeft_37
+  - first:
+      213: -258780257992078478
+    second: ORCIdleLeft_38
+  - first:
+      213: 4411379821952695902
+    second: ORCIdleLeft_39
+  - first:
+      213: -2494657167104137623
+    second: ORCIdleLeft_40
+  - first:
+      213: -4582185169253238934
+    second: ORCIdleLeft_41
+  - first:
+      213: 3065869103720090354
+    second: ORCIdleLeft_42
+  - first:
+      213: 6707156379032200465
+    second: ORCIdleLeft_43
+  - first:
+      213: -4580196500334868052
+    second: ORCIdleLeft_44
+  - first:
+      213: -6443358468422375626
+    second: ORCIdleLeft_45
+  - first:
+      213: 2607555525279773199
+    second: ORCIdleLeft_46
+  - first:
+      213: 726288792741277887
+    second: ORCIdleLeft_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ORCIdleLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db5314d5eceb04a9fdc569123714a6
+      internalID: 5836199782112457484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1680
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c89d8443e3fc34fbb3363bfa6c199f
+      internalID: -8151654656083843747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1680
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0069b6d6135c5148bdf8bfe6951b9d8
+      internalID: 4156877340546562300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1680
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d41798fbc9b3904481c0487c56eb39c
+      internalID: 8472235701765939298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1680
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73527ef73440004e969a77d594f3c89
+      internalID: 6947886748768470039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1680
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e4f184c396a04fa580865cdcb9cb9
+      internalID: -9122794243571600724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10058412fac569f4cbd6da7ce964f10d
+      internalID: -6177042106079090935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1440
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609e24bf06859b45a6fe72f1236faa3
+      internalID: 2311115760657872637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1440
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde8366a3cab3a49aaf2588555c0e83
+      internalID: -6010028572370204476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1440
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839d61219c4c0f44b72bcc5a00bb24f
+      internalID: 6984679689445631868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1440
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec939705b1b27a64683ebd142d294609
+      internalID: -7612730245683205979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_11
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1440
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973df063dd80664cb584de5b062575c
+      internalID: 598383276485252278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e83775f43ef449bf4ec9536a87000
+      internalID: 1957733182566207346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1200
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91c4ef875e022b45b13a7f32a1583f9
+      internalID: -7759487638724495149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1200
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b01a4f5ea8de34dae97a638dd42aa3
+      internalID: -4239174318099382481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1200
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4284d554570f241bb88bd232a380f8
+      internalID: 6333527924492975530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1200
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11996244845a9774fa35c90736d907c1
+      internalID: -6317609506236114240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1200
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737985302cfe2be4c987130e00223763
+      internalID: -1630997188212337574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d0eba4555ac044b773e3005f969b6
+      internalID: -2370618978540418371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 960
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90969f51bf5376e4aaec729d4929edf9
+      internalID: -8895809799188892647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 960
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b922ee5df5c83324b88a1da04347dc3b
+      internalID: -5869282534143824290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_21
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 960
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d04656b219f74db56f4406903d358
+      internalID: -6547194933698646433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba66a310a2b821d4f9b8990bbd87408c
+      internalID: -5923182744248335090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_23
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 960
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127ec40bde6b504e9d87b634a383a13
+      internalID: -7365449996038090209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddebfcba7eb6a842b45da58cef4c0c6
+      internalID: 4911756700682576970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 720
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d976a13ab35b4f64c80b3ea26b16a7dd
+      internalID: 4803962004595476208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 720
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f05a5460822694a8245ac3ed5920b5
+      internalID: -7591350874779638425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c7ae920faade74e914012129c62a7c
+      internalID: 6633180950475237299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 720
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b695750b0861c40ba6e1dcb9517680
+      internalID: -2182925679436854582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 720
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ec54503df7624e993a202cffc4b2f
+      internalID: 6259636764216573772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc5a278867c2164ea462a5b774c9353
+      internalID: 118770935548243712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511eab8d4a9378a499e589d2135120cb
+      internalID: -7999717149571790755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4612e3dc2a986294b97b5d451e42b833
+      internalID: -1711846549410956876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fa776c30cd64b4b8927337d2ea1fa4
+      internalID: 3836753344019984802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 480
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e27d15b083a946a75c41881660175
+      internalID: 5093214878261874698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_35
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 480
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a16d7d6c39d0469b4bf09ebafc43f
+      internalID: -8310216601765857063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0dcdb90f099e4eb419364133887aa
+      internalID: -1345582069331617333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d7e9c82a455549a3f4eb9888f44ed
+      internalID: 2575699473934101896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f424a76090501914e885ac590044586d
+      internalID: -258780257992078478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618bf4ae97928e4c83d652102405ef1
+      internalID: 4411379821952695902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 240
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c4ac0ccd3bbe4d822b9cb97fa5cc3
+      internalID: -2494657167104137623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_41
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 240
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1babbbce5b355e44b185f565b645ecb
+      internalID: -4582185169253238934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a57449de0bda4f9dfe8142d6525ab
+      internalID: 3065869103720090354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0a0b3afeca2e0419ed862a041dc884
+      internalID: 6707156379032200465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1b220037982cf4587b91d96222d3ee
+      internalID: -4580196500334868052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab61425581c365144848d3eb787aacef
+      internalID: -6443358468422375626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_46
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3068ed997de24098e19a49485f868
+      internalID: 2607555525279773199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORCIdleLeft_47
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 208
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e30d714f8952614d81f8dfc3f89042e
+      internalID: 726288792741277887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 202c5805cfdbf844caac785ed1ccd409
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

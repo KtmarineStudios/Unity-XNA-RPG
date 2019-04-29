@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 123d04156c22ed44c932c9f6b1501637
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1457966456538098515
+    second: Warrior3WalkLeft_0
+  - first:
+      213: 5206722406462604038
+    second: Warrior3WalkLeft_1
+  - first:
+      213: -2696973039802205732
+    second: Warrior3WalkLeft_2
+  - first:
+      213: -278739611492215174
+    second: Warrior3WalkLeft_3
+  - first:
+      213: 2275101053893429079
+    second: Warrior3WalkLeft_4
+  - first:
+      213: 4895638839259379918
+    second: Warrior3WalkLeft_5
+  - first:
+      213: 7792512817060799224
+    second: Warrior3WalkLeft_6
+  - first:
+      213: 4572158765591013578
+    second: Warrior3WalkLeft_7
+  - first:
+      213: 22835797234706666
+    second: Warrior3WalkLeft_8
+  - first:
+      213: 502371066429508127
+    second: Warrior3WalkLeft_9
+  - first:
+      213: -8172242148258075771
+    second: Warrior3WalkLeft_10
+  - first:
+      213: 3991957697122064317
+    second: Warrior3WalkLeft_11
+  - first:
+      213: -7133336162514483090
+    second: Warrior3WalkLeft_12
+  - first:
+      213: 7898045884055886405
+    second: Warrior3WalkLeft_13
+  - first:
+      213: 5615572554743734345
+    second: Warrior3WalkLeft_14
+  - first:
+      213: -3704952756404768492
+    second: Warrior3WalkLeft_15
+  - first:
+      213: 117768250034012161
+    second: Warrior3WalkLeft_16
+  - first:
+      213: 2848540105925458715
+    second: Warrior3WalkLeft_17
+  - first:
+      213: -8673903884314167618
+    second: Warrior3WalkLeft_18
+  - first:
+      213: 8735712810008650080
+    second: Warrior3WalkLeft_19
+  - first:
+      213: -2608499194599564219
+    second: Warrior3WalkLeft_20
+  - first:
+      213: -7147933654863608586
+    second: Warrior3WalkLeft_21
+  - first:
+      213: -6850185369994830917
+    second: Warrior3WalkLeft_22
+  - first:
+      213: 2161528961991854583
+    second: Warrior3WalkLeft_23
+  - first:
+      213: 3675301326543117456
+    second: Warrior3WalkLeft_24
+  - first:
+      213: 1172766859444735544
+    second: Warrior3WalkLeft_25
+  - first:
+      213: 3549417335139863033
+    second: Warrior3WalkLeft_26
+  - first:
+      213: 3301897931384458650
+    second: Warrior3WalkLeft_27
+  - first:
+      213: -9047485062988255369
+    second: Warrior3WalkLeft_28
+  - first:
+      213: 3876325188531319948
+    second: Warrior3WalkLeft_29
+  - first:
+      213: 3078239412522514059
+    second: Warrior3WalkLeft_30
+  - first:
+      213: 4757831125463222982
+    second: Warrior3WalkLeft_31
+  - first:
+      213: 2141135180532669815
+    second: Warrior3WalkLeft_32
+  - first:
+      213: 7121790290987853412
+    second: Warrior3WalkLeft_33
+  - first:
+      213: 6581626433917673872
+    second: Warrior3WalkLeft_34
+  - first:
+      213: 3574108287837278460
+    second: Warrior3WalkLeft_35
+  - first:
+      213: -6108716384386264107
+    second: Warrior3WalkLeft_36
+  - first:
+      213: -9099888246366833566
+    second: Warrior3WalkLeft_37
+  - first:
+      213: -1643394675046272509
+    second: Warrior3WalkLeft_38
+  - first:
+      213: -8329612534828978756
+    second: Warrior3WalkLeft_39
+  - first:
+      213: -1905511278312220186
+    second: Warrior3WalkLeft_40
+  - first:
+      213: 1775784098829965303
+    second: Warrior3WalkLeft_41
+  - first:
+      213: 365576190936642333
+    second: Warrior3WalkLeft_42
+  - first:
+      213: -6188915547940973401
+    second: Warrior3WalkLeft_43
+  - first:
+      213: -3680012751287568962
+    second: Warrior3WalkLeft_44
+  - first:
+      213: 7155515646801021704
+    second: Warrior3WalkLeft_45
+  - first:
+      213: -6907658743391293050
+    second: Warrior3WalkLeft_46
+  - first:
+      213: 3284733438224756938
+    second: Warrior3WalkLeft_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f199ebcd0b88ac4ab85e05188690c10
+      internalID: -1457966456538098515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994582f08294ea847b9ce6ed7f2b7947
+      internalID: 5206722406462604038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeacb7e9d00b7614e8653512ec39d363
+      internalID: -2696973039802205732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f4b03547f6e0541904797b6268a365
+      internalID: -278739611492215174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c51924e9b3d24a9e8fe78f9b05a89
+      internalID: 2275101053893429079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1344
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607df5687539c88409f36d131b00f421
+      internalID: 4895638839259379918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36eb3c307285c42afd1372b594832d
+      internalID: 7792512817060799224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbbe919c9556864498616d418a1242d
+      internalID: 4572158765591013578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169078747ed1204bb22b0ddf29b5cdc
+      internalID: 22835797234706666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3c91fa0bc958a4583a8ed33aa17492
+      internalID: 502371066429508127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ddd6665da16b74091608030559f1e2
+      internalID: -8172242148258075771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1152
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f50a7208c5f342b939638de33045a
+      internalID: 3991957697122064317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93022b95517603a4499fc671ca62c660
+      internalID: -7133336162514483090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a67540d04a41194d8608f1a09d5840e
+      internalID: 7898045884055886405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b18ae9c0085f5046acd31d665370ece
+      internalID: 5615572554743734345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb72ec6bf73caa743b908aca533f4cbd
+      internalID: -3704952756404768492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594cfb67b2ff232429b05126762cd1ce
+      internalID: 117768250034012161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 960
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c455c7702627f2b44bfdecdd5d199f82
+      internalID: 2848540105925458715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d10b1343d5bbe49b8e1c7bc7d70bbe
+      internalID: -8673903884314167618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c9d6fd66e9d8547a590693b1e77751
+      internalID: 8735712810008650080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc123c27316a075469a92756d43d0fe7
+      internalID: -2608499194599564219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d8b14f938b8141909ed9579db9646
+      internalID: -7147933654863608586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301c30b54d5ae94095f000b89d98d3a
+      internalID: -6850185369994830917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 768
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe173f1fc4a5374fa2f428aa2b7c1b2
+      internalID: 2161528961991854583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb02925791857da498591fffe4119f7e
+      internalID: 3675301326543117456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b912591812c3344196979658dd12758
+      internalID: 1172766859444735544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f978b58048524b99daad1cf887d17
+      internalID: 3549417335139863033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd12952c59444d54c91d2c427aafbc4e
+      internalID: 3301897931384458650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff5ce39dc59691498c7292ac2434f0a
+      internalID: -9047485062988255369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 576
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef81d74be201645b59edc79c1ab96d
+      internalID: 3876325188531319948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26884566b920bd944a0145ae1178433e
+      internalID: 3078239412522514059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e535833937c246b1a2408517d40d9
+      internalID: 4757831125463222982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021664fdab34a441a3f4090324445e5
+      internalID: 2141135180532669815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e67107cb482d4fa1af815de84862e
+      internalID: 7121790290987853412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_34
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a4c66ef4fb1c47b6b1ac87c6b8349
+      internalID: 6581626433917673872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 384
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fd6efe0ecfb84da65539a12208d0c
+      internalID: 3574108287837278460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf3e4c3a3b8e74bb56a80485af0988
+      internalID: -6108716384386264107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b093cb0bcd9b44ab5a83ce84c18f4b
+      internalID: -9099888246366833566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f4ee73517d8540894ec7dc1178a8c
+      internalID: -1643394675046272509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc78106e95f34d40bf125a5cc1eb274
+      internalID: -8329612534828978756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_40
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf2d1d6bb5db14b9b2a86c13977dfd
+      internalID: -1905511278312220186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_41
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 192
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528755a93e8b2d4e95d1ef11cd3d010
+      internalID: 1775784098829965303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563657916dd77a4fa50748f21930997
+      internalID: 365576190936642333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69da82ca9641b04eb8304096257fa59
+      internalID: -6188915547940973401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68772e47f9a2e574e9a68e421e5d52ab
+      internalID: -3680012751287568962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1dab954835b1c45befa296634aac51
+      internalID: 7155515646801021704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cae7f720982d74fad15df0bcee71fd
+      internalID: -6907658743391293050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3WalkLeft_47
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 138
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30082fdcd6a89b44fa3ea6e3419e0cfd
+      internalID: 3284733438224756938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b574d75efffb934cbee4fc8efc758d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

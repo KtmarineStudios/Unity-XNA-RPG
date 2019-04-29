@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: a5c4495281a85cf42b508dcbbbf51681
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5525862190399874410
+    second: BossWalkRight_0
+  - first:
+      213: -8665185864255397007
+    second: BossWalkRight_1
+  - first:
+      213: 7688124117178746969
+    second: BossWalkRight_2
+  - first:
+      213: -5785123107886218339
+    second: BossWalkRight_3
+  - first:
+      213: -6487958547825188014
+    second: BossWalkRight_4
+  - first:
+      213: -3557182442172418817
+    second: BossWalkRight_5
+  - first:
+      213: -7736512517986576021
+    second: BossWalkRight_6
+  - first:
+      213: 6934630350529535888
+    second: BossWalkRight_7
+  - first:
+      213: 1268306834655002762
+    second: BossWalkRight_8
+  - first:
+      213: -2157542224930697098
+    second: BossWalkRight_9
+  - first:
+      213: -5970150622742790272
+    second: BossWalkRight_10
+  - first:
+      213: -2889461121362137933
+    second: BossWalkRight_11
+  - first:
+      213: -6762686315886132282
+    second: BossWalkRight_12
+  - first:
+      213: 5995796989374696343
+    second: BossWalkRight_13
+  - first:
+      213: -726711466553868676
+    second: BossWalkRight_14
+  - first:
+      213: -8495870340627429002
+    second: BossWalkRight_15
+  - first:
+      213: 277104836464650192
+    second: BossWalkRight_16
+  - first:
+      213: 3160761283939030276
+    second: BossWalkRight_17
+  - first:
+      213: 6948115842331533855
+    second: BossWalkRight_18
+  - first:
+      213: 5621700590366997913
+    second: BossWalkRight_19
+  - first:
+      213: -5990717485429896258
+    second: BossWalkRight_20
+  - first:
+      213: -2613551730527561290
+    second: BossWalkRight_21
+  - first:
+      213: -4134379877162061361
+    second: BossWalkRight_22
+  - first:
+      213: 3838611963263989472
+    second: BossWalkRight_23
+  - first:
+      213: 1071406091892805110
+    second: BossWalkRight_24
+  - first:
+      213: -9028554731545219975
+    second: BossWalkRight_25
+  - first:
+      213: -2994784983537247846
+    second: BossWalkRight_26
+  - first:
+      213: -3253644507547109791
+    second: BossWalkRight_27
+  - first:
+      213: 6820618752098390975
+    second: BossWalkRight_28
+  - first:
+      213: -7001353060688721459
+    second: BossWalkRight_29
+  - first:
+      213: 8493581953487091038
+    second: BossWalkRight_30
+  - first:
+      213: 2774367219562275862
+    second: BossWalkRight_31
+  - first:
+      213: -2362498808225729859
+    second: BossWalkRight_32
+  - first:
+      213: -970248412499080825
+    second: BossWalkRight_33
+  - first:
+      213: -1341657713484514566
+    second: BossWalkRight_34
+  - first:
+      213: -3569916674415124118
+    second: BossWalkRight_35
+  - first:
+      213: 194440344808866951
+    second: BossWalkRight_36
+  - first:
+      213: 1123523251031337853
+    second: BossWalkRight_37
+  - first:
+      213: 7024159418864149516
+    second: BossWalkRight_38
+  - first:
+      213: 6759816553966588125
+    second: BossWalkRight_39
+  - first:
+      213: -2592315737464375052
+    second: BossWalkRight_40
+  - first:
+      213: -1357632073582386782
+    second: BossWalkRight_41
+  - first:
+      213: -4850408163254427530
+    second: BossWalkRight_42
+  - first:
+      213: 5102730230266847913
+    second: BossWalkRight_43
+  - first:
+      213: -8498419381071636954
+    second: BossWalkRight_44
+  - first:
+      213: -7458553911964411055
+    second: BossWalkRight_45
+  - first:
+      213: 2064853973475519993
+    second: BossWalkRight_46
+  - first:
+      213: -1388620750216521724
+    second: BossWalkRight_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossWalkRight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a30c760258dac4c928729bcea41459
+      internalID: 5525862190399874410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da266fa1b3dca419c67fd65c5a6684
+      internalID: -8665185864255397007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6d850a062f5d44a394845c8444e15
+      internalID: 7688124117178746969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff54b32f5c24194581e8bfb1f8342b9
+      internalID: -5785123107886218339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55268867b018cf144818e84444c1d9d0
+      internalID: -6487958547825188014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a350647f052824d987ffbe8c6e612d
+      internalID: -3557182442172418817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e03093c129d6479e8af4ed0fe8dcb
+      internalID: -7736512517986576021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a880ba315ed0943974f8b407523b84
+      internalID: 6934630350529535888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd77dcee0026940aae0695929f01b0
+      internalID: 1268306834655002762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3860a084424a942853b32feac384b0
+      internalID: -2157542224930697098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_10
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2437c11d3d7162e458db6546f138f43d
+      internalID: -5970150622742790272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1a4faf2a7750428c285f9efbcf6ac
+      internalID: -2889461121362137933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a77d2fcfa1ad14180e306085ea59af
+      internalID: -6762686315886132282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98732b7ba7073104d89d262336ffb9f8
+      internalID: 5995796989374696343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bf143c9a75fbc44bbd6a6758d748fe
+      internalID: -726711466553868676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eea33059389ba419f51315e3fad151
+      internalID: -8495870340627429002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c59f93046fe248b42f6e3472c0ccb
+      internalID: 277104836464650192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811318d584213df488fc52a34b71e0c6
+      internalID: 3160761283939030276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3230d5aebd9e87646a0103c5cb535e6d
+      internalID: 6948115842331533855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7b509d56259a45a35e477563d7b19
+      internalID: 5621700590366997913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c49f72acdfb7742b69596e21b8b667
+      internalID: -5990717485429896258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63050b97a629f7841afd99361aeee7a9
+      internalID: -2613551730527561290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b48884bb11214394fbe59ceff915f
+      internalID: -4134379877162061361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f794d0349d8a3428e4f2eabe189593
+      internalID: 3838611963263989472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c587b61c61849418537ad4cf31973a
+      internalID: 1071406091892805110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9293644ef2c7c0644ace37db6f7560c5
+      internalID: -9028554731545219975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34153088df334bc44a81ecdc71807bd6
+      internalID: -2994784983537247846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d27eb6f37962ef4cbe86047d42a378f
+      internalID: -3253644507547109791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_28
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29755a1b427694d93a7b438f45fb31
+      internalID: 6820618752098390975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_29
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ccb17a87fce44fb49ffa769412c52
+      internalID: -7001353060688721459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9c179cb7c484349947f7d881930781
+      internalID: 8493581953487091038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77545a09d679f2a44a1c3d18ae1de7fd
+      internalID: 2774367219562275862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9404997d427a134bb38b7badb5ec315
+      internalID: -2362498808225729859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d16e2b06163b24b8fa10ef3303de2c
+      internalID: -970248412499080825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b37dc7a3533f48822e920c97870ff
+      internalID: -1341657713484514566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_35
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5000109e8c391f24c9b9bb0ff5cf4c84
+      internalID: -3569916674415124118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71cd7d600796143b226031f75d922f
+      internalID: 194440344808866951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5690c0efaf7af4bad99bef3309957c
+      internalID: 1123523251031337853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_38
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4783ffbd79f24d8ff8b22b1eddff5
+      internalID: 7024159418864149516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b014ef9b6ca9794782d7abadff21085
+      internalID: 6759816553966588125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361499c4eb61c304e9737891f5f43487
+      internalID: -2592315737464375052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_41
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a7d628fa43134cbf01105c8e72de9
+      internalID: -1357632073582386782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e59094f6aba345bb478ad6dc22815
+      internalID: -4850408163254427530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043c759b4fe0a044938be508cb742d6
+      internalID: 5102730230266847913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3541b4ffd8fda934daf8b916d0bcae06
+      internalID: -8498419381071636954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f242cd4b8eb14f439d6882b6bb58da0
+      internalID: -7458553911964411055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_46
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fd211290b307e4e837f7c4077fde75
+      internalID: 2064853973475519993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWalkRight_47
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e47db81766b9c94a8fb44768675a983
+      internalID: -1388620750216521724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 460d4c455a6857e4db692e1ca0d19e3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: bac07b07b94151740a8a13ee353fe337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 673978467544707708
+    second: Boss3IdleLeft_0
+  - first:
+      213: -719043437872950878
+    second: Boss3IdleLeft_1
+  - first:
+      213: 4926200521220667114
+    second: Boss3IdleLeft_2
+  - first:
+      213: 3555838641087550544
+    second: Boss3IdleLeft_3
+  - first:
+      213: 7794234555381629004
+    second: Boss3IdleLeft_4
+  - first:
+      213: 8890519507369464104
+    second: Boss3IdleLeft_5
+  - first:
+      213: 7470269691202064080
+    second: Boss3IdleLeft_6
+  - first:
+      213: -1885561984860092100
+    second: Boss3IdleLeft_7
+  - first:
+      213: 8196224300965410697
+    second: Boss3IdleLeft_8
+  - first:
+      213: -7486140266479145239
+    second: Boss3IdleLeft_9
+  - first:
+      213: -7207653866125719029
+    second: Boss3IdleLeft_10
+  - first:
+      213: -8292076307566392309
+    second: Boss3IdleLeft_11
+  - first:
+      213: 5514606340485487249
+    second: Boss3IdleLeft_12
+  - first:
+      213: -5239631437264394346
+    second: Boss3IdleLeft_13
+  - first:
+      213: 2063733884730868264
+    second: Boss3IdleLeft_14
+  - first:
+      213: 2940643517773260288
+    second: Boss3IdleLeft_15
+  - first:
+      213: -6300552833074797265
+    second: Boss3IdleLeft_16
+  - first:
+      213: -9132243301512199306
+    second: Boss3IdleLeft_17
+  - first:
+      213: -3955119303708065937
+    second: Boss3IdleLeft_18
+  - first:
+      213: -3611069724547702272
+    second: Boss3IdleLeft_19
+  - first:
+      213: 2598552142187040864
+    second: Boss3IdleLeft_20
+  - first:
+      213: -224172257915407265
+    second: Boss3IdleLeft_21
+  - first:
+      213: -5261337948413068200
+    second: Boss3IdleLeft_22
+  - first:
+      213: -5741388860745437859
+    second: Boss3IdleLeft_23
+  - first:
+      213: 3222291003703498119
+    second: Boss3IdleLeft_24
+  - first:
+      213: 4640756474774231146
+    second: Boss3IdleLeft_25
+  - first:
+      213: -2061417915437528869
+    second: Boss3IdleLeft_26
+  - first:
+      213: -3915276528078430207
+    second: Boss3IdleLeft_27
+  - first:
+      213: 649556418899375199
+    second: Boss3IdleLeft_28
+  - first:
+      213: -7571779298105475379
+    second: Boss3IdleLeft_29
+  - first:
+      213: 6790297883901227792
+    second: Boss3IdleLeft_30
+  - first:
+      213: 8317093349854282065
+    second: Boss3IdleLeft_31
+  - first:
+      213: -6878329603735019338
+    second: Boss3IdleLeft_32
+  - first:
+      213: -4999043882052428685
+    second: Boss3IdleLeft_33
+  - first:
+      213: 8986063002679980745
+    second: Boss3IdleLeft_34
+  - first:
+      213: 4736622321444330530
+    second: Boss3IdleLeft_35
+  - first:
+      213: 1071222820851479292
+    second: Boss3IdleLeft_36
+  - first:
+      213: 5066233748355655762
+    second: Boss3IdleLeft_37
+  - first:
+      213: -6498054668247171038
+    second: Boss3IdleLeft_38
+  - first:
+      213: 5298446965927436729
+    second: Boss3IdleLeft_39
+  - first:
+      213: 5249612740109277150
+    second: Boss3IdleLeft_40
+  - first:
+      213: -2985071030133127268
+    second: Boss3IdleLeft_41
+  - first:
+      213: -3191767195717660072
+    second: Boss3IdleLeft_42
+  - first:
+      213: 3537081304832509021
+    second: Boss3IdleLeft_43
+  - first:
+      213: 8267187287923216490
+    second: Boss3IdleLeft_44
+  - first:
+      213: 659921240683204578
+    second: Boss3IdleLeft_45
+  - first:
+      213: 4145339089210562205
+    second: Boss3IdleLeft_46
+  - first:
+      213: 981869010114904468
+    second: Boss3IdleLeft_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss3IdleLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588500850322e1343ae93a0cdaa53f9d
+      internalID: 673978467544707708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a514016a0a08ba40b2dcb7033d23015
+      internalID: -719043437872950878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604606267578de4587f3d8e7db1dba5
+      internalID: 4926200521220667114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e7b50f0614ef4980e09efc71ee545
+      internalID: 3555838641087550544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7a28551b4156d409d179a40ce109e9
+      internalID: 7794234555381629004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1512
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a97879ac916df4292d82c57dcc56f0
+      internalID: 8890519507369464104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d52e5fa39a334b9b3153b802cb159
+      internalID: 7470269691202064080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e5a9f8d311a0419b670362f5a32d1
+      internalID: -1885561984860092100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b367f9a7b3bbc0409b76bc52aacbb2e
+      internalID: 8196224300965410697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdbf18847d614f4f88d21c4349c766f
+      internalID: -7486140266479145239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_10
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6578b303e7c1f884fb809842b605f4b9
+      internalID: -7207653866125719029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1296
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad80effb95d0ff44a8caedb124787f8b
+      internalID: -8292076307566392309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccce78df86da7b34785ace89623885ab
+      internalID: 5514606340485487249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3b7bb78371194468e35879619de521
+      internalID: -5239631437264394346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf0770c017f79444a98d69d803f7975
+      internalID: 2063733884730868264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e067c291716ebb48af971a9ffcfad13
+      internalID: 2940643517773260288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7a13811183754782181ddb0b65c02
+      internalID: -6300552833074797265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1080
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2149841c9b782b347908d30898f0ad7b
+      internalID: -9132243301512199306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4444c9e12e5246a706fa3527c1d28
+      internalID: -3955119303708065937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bff101bfd63304495b8f98cc324c16
+      internalID: -3611069724547702272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fef90f27e52684893ad9ad8ea4a1e2
+      internalID: 2598552142187040864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644895e3813558943b370ee127fb13fe
+      internalID: -224172257915407265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4397298972ef4b86e2c7f421538fd
+      internalID: -5261337948413068200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 864
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aff4763943dfa44b68ad8f5ab8e15c
+      internalID: -5741388860745437859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ec375c55e7b441812469bcf5b84c1
+      internalID: 3222291003703498119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920835da102645a43818096ec0f46182
+      internalID: 4640756474774231146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a4fdf5f2806a64aa180a915a6bad26
+      internalID: -2061417915437528869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd884689dff3764fa8853cfc85d8637
+      internalID: -3915276528078430207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_28
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f758f493758a2647b0b0a0c18ae1a31
+      internalID: 649556418899375199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_29
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 648
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16c99b3dd9d5274996edc0503ddb54c
+      internalID: -7571779298105475379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa7d3b6f6515a4e8a30e63517f165e
+      internalID: 6790297883901227792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9d0991f3a03cb458617a10544ae034
+      internalID: 8317093349854282065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31bc915634de8a43948c25588f1ac86
+      internalID: -6878329603735019338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4b153e9d4298448a612d68acfbbf1
+      internalID: -4999043882052428685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9574bb4f314e749ad969ed95997e24
+      internalID: 8986063002679980745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_35
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 432
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e704a6228fc0a8b488355a1c5960af78
+      internalID: 4736622321444330530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1155b9a49cb06da4188db1f8f8fb96d9
+      internalID: 1071222820851479292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99888aaea5297424f893c7a656772040
+      internalID: 5066233748355655762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_38
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa7e83b8e1462479c95d7b289b58b6
+      internalID: -6498054668247171038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421fa8e2f4ea004382a19b808df00b9
+      internalID: 5298446965927436729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2148c579d3b55143b21a535d1a1d604
+      internalID: 5249612740109277150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_41
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 216
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899edba42cf71e46a7eae43d102e59f
+      internalID: -2985071030133127268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781782158d0ea24a9f872be81ee2770
+      internalID: -3191767195717660072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f9544936b3094b87be0be1fc27995
+      internalID: 3537081304832509021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bfe0505d3f83c4da7dd55bbcd28976
+      internalID: 8267187287923216490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb42e82bcd1ca4295b94649a7e1fdb
+      internalID: 659921240683204578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_46
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6dcbe4aa63c444b8a2bb9cda6b1ad6
+      internalID: 4145339089210562205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3IdleLeft_47
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0f7934b84875348a32ce711936718e
+      internalID: 981869010114904468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28bece7b98b3c2f4d80300ef3b29f321
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

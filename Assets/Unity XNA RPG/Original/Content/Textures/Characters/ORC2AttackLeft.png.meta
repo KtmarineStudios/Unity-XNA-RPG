@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: 5eb63228149980344b5892f44295a320
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8828000093105086626
+    second: ORC2AttackLeft_0
+  - first:
+      213: 6518318969088480062
+    second: ORC2AttackLeft_1
+  - first:
+      213: 3826359787095639388
+    second: ORC2AttackLeft_2
+  - first:
+      213: -5601774983179657602
+    second: ORC2AttackLeft_3
+  - first:
+      213: 1230538020540082841
+    second: ORC2AttackLeft_4
+  - first:
+      213: -4946825428457780970
+    second: ORC2AttackLeft_5
+  - first:
+      213: -2966808068727997325
+    second: ORC2AttackLeft_6
+  - first:
+      213: 417807718764744292
+    second: ORC2AttackLeft_7
+  - first:
+      213: 6569511479725899987
+    second: ORC2AttackLeft_8
+  - first:
+      213: 543827512103134812
+    second: ORC2AttackLeft_9
+  - first:
+      213: 1106034787186334575
+    second: ORC2AttackLeft_10
+  - first:
+      213: 3103503792473418187
+    second: ORC2AttackLeft_11
+  - first:
+      213: -399819546613682324
+    second: ORC2AttackLeft_12
+  - first:
+      213: -2564718035756763979
+    second: ORC2AttackLeft_13
+  - first:
+      213: -6884829522740496033
+    second: ORC2AttackLeft_14
+  - first:
+      213: 2204520508122289294
+    second: ORC2AttackLeft_15
+  - first:
+      213: 463056451598354513
+    second: ORC2AttackLeft_16
+  - first:
+      213: -6331002006827699016
+    second: ORC2AttackLeft_17
+  - first:
+      213: 4499221217912170783
+    second: ORC2AttackLeft_18
+  - first:
+      213: 3017700875197594797
+    second: ORC2AttackLeft_19
+  - first:
+      213: -4954475621482098926
+    second: ORC2AttackLeft_20
+  - first:
+      213: 743409253347297993
+    second: ORC2AttackLeft_21
+  - first:
+      213: 4547959530833950759
+    second: ORC2AttackLeft_22
+  - first:
+      213: -7202199709044607480
+    second: ORC2AttackLeft_23
+  - first:
+      213: 6153232798776930001
+    second: ORC2AttackLeft_24
+  - first:
+      213: 2238362181341846261
+    second: ORC2AttackLeft_25
+  - first:
+      213: 6489892789967945277
+    second: ORC2AttackLeft_26
+  - first:
+      213: -4108773346452923464
+    second: ORC2AttackLeft_27
+  - first:
+      213: 6847146470473855008
+    second: ORC2AttackLeft_28
+  - first:
+      213: -7154171317504124407
+    second: ORC2AttackLeft_29
+  - first:
+      213: 6362432248842289424
+    second: ORC2AttackLeft_30
+  - first:
+      213: -8361537680493270411
+    second: ORC2AttackLeft_31
+  - first:
+      213: 6908060484329248510
+    second: ORC2AttackLeft_32
+  - first:
+      213: -1497446466541216563
+    second: ORC2AttackLeft_33
+  - first:
+      213: 4011035332875297279
+    second: ORC2AttackLeft_34
+  - first:
+      213: -8692465143319412354
+    second: ORC2AttackLeft_35
+  - first:
+      213: 5284260328364055424
+    second: ORC2AttackLeft_36
+  - first:
+      213: 518291413673943738
+    second: ORC2AttackLeft_37
+  - first:
+      213: -7481003619766221638
+    second: ORC2AttackLeft_38
+  - first:
+      213: 5966750923238522691
+    second: ORC2AttackLeft_39
+  - first:
+      213: -3607475943302168215
+    second: ORC2AttackLeft_40
+  - first:
+      213: -5596989491728875349
+    second: ORC2AttackLeft_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ORC2AttackLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7bb59ce476ec4490a3d9084ae2176
+      internalID: -8828000093105086626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1272
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3479fbbc05df0b64bb6a7040d1551da7
+      internalID: 6518318969088480062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1272
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efa70a7ea240b4f95d2da2a6cce7b1
+      internalID: 3826359787095639388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1272
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b78b467ceb374d9a5a4fb7420a45a
+      internalID: -5601774983179657602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1272
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16527bbb3c1d042a7baa7c253ecd9f
+      internalID: 1230538020540082841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1272
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cba64fdd3e68a49b7521781d4b9f1d
+      internalID: -4946825428457780970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f54df4e616e904a9450aad1fadd3b2
+      internalID: -2966808068727997325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1060
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f548d412c6b3e540a0ecec94644613a
+      internalID: 417807718764744292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1060
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e52e434780dc43afbd99f3398ab36
+      internalID: 6569511479725899987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1060
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83fc8ac29df91d49a37f7d61919a25b
+      internalID: 543827512103134812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1060
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db9f4be0a9161f4fb275023bef7b836
+      internalID: 1106034787186334575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1060
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715afe9744ea25b4b8fd750c3ab2e8c7
+      internalID: 3103503792473418187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610145b0d499c03419d9b8f45ae9e533
+      internalID: -399819546613682324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 848
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ea44efdd76a7c448f7027110fe4487
+      internalID: -2564718035756763979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 848
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3558741cbc1ed46a794ef2c2e1a06c
+      internalID: -6884829522740496033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 848
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a02dd43db8adf34d9acdc85da5f9c81
+      internalID: 2204520508122289294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 848
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179fa6107374cff4591f2c851ee20d25
+      internalID: 463056451598354513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 848
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20a9cb45ae1a44fa2c2a17febfd096
+      internalID: -6331002006827699016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3bfe688c7f8464e824db4622a0b802
+      internalID: 4499221217912170783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 636
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5702185d6ebaf64aa8e15f663d2b971
+      internalID: 3017700875197594797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 636
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb9168a65a041f44946b2368c162ebb
+      internalID: -4954475621482098926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 636
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0bfb3c94cdfab48ae1670164512c76
+      internalID: 743409253347297993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 636
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de347bbfeaed2394c966ef24778d12f0
+      internalID: 4547959530833950759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 636
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137b0b4f09e3d34599d135fe040907e
+      internalID: -7202199709044607480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9880039b4c533f479bf382602e8acb7
+      internalID: 6153232798776930001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 424
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff27611b3b3a34a94b4a78e412a082
+      internalID: 2238362181341846261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 424
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6462f541e2e14a4c909f88ec3b6cbec
+      internalID: 6489892789967945277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 424
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd521d639ef300044a9bc9874da74528
+      internalID: -4108773346452923464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 424
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d92df2cd7c3c043818c3236236a283
+      internalID: 6847146470473855008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 424
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a50c28b1b88540b9d523516b869b6
+      internalID: -7154171317504124407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2332caa63c72b41a577df2dac84ca8
+      internalID: 6362432248842289424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 212
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562a5a847ea14d4585f08380a94ac76
+      internalID: -8361537680493270411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 212
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76dc3b64e62a334d9e141aa54ea2f28
+      internalID: 6908060484329248510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 212
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3b6bf8faf41b142bf22fc3a2e3d549
+      internalID: -1497446466541216563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 212
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b29d31ed69a014c9317f47e79b28ff
+      internalID: 4011035332875297279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 212
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227599575da8f0498c44b2fdee40de2
+      internalID: -8692465143319412354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43afa3c336d31344aa2c8efdc1ac603
+      internalID: 5284260328364055424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ab94726924de438adffa6d6b67c9a
+      internalID: 518291413673943738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca6e52809356e44988932e2ef39d87
+      internalID: -7481003619766221638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ecc43c110099f42a2fa39d3463bf1f
+      internalID: 5966750923238522691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1995cfaef3f164f4e904ea041420a1e3
+      internalID: -3607475943302168215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ORC2AttackLeft_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ecf58df949b741b82d02631178c06
+      internalID: -5596989491728875349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 87c0977b66cc04945a41f22f37575dcf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

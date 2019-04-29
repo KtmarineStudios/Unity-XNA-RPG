@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 278400c63e2802449b58adee0c195253
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5685476892437625070
+    second: Villager2IdleRight_0
+  - first:
+      213: 5943488155241262831
+    second: Villager2IdleRight_1
+  - first:
+      213: -7352682629929854501
+    second: Villager2IdleRight_2
+  - first:
+      213: 2965700996204750958
+    second: Villager2IdleRight_3
+  - first:
+      213: -3869302923856538180
+    second: Villager2IdleRight_4
+  - first:
+      213: -1323694365766513364
+    second: Villager2IdleRight_5
+  - first:
+      213: 2239849440778712667
+    second: Villager2IdleRight_6
+  - first:
+      213: -8379687770362001646
+    second: Villager2IdleRight_7
+  - first:
+      213: -5994535726967489127
+    second: Villager2IdleRight_8
+  - first:
+      213: -4313119979736173238
+    second: Villager2IdleRight_9
+  - first:
+      213: -2141314073705660591
+    second: Villager2IdleRight_10
+  - first:
+      213: 8960930657917304552
+    second: Villager2IdleRight_11
+  - first:
+      213: -356873980443749835
+    second: Villager2IdleRight_12
+  - first:
+      213: 5275928429996765181
+    second: Villager2IdleRight_13
+  - first:
+      213: -3224389164238575142
+    second: Villager2IdleRight_14
+  - first:
+      213: -3733824765049212417
+    second: Villager2IdleRight_15
+  - first:
+      213: -5455252070797813154
+    second: Villager2IdleRight_16
+  - first:
+      213: 3812534232715697749
+    second: Villager2IdleRight_17
+  - first:
+      213: -8273253009850898065
+    second: Villager2IdleRight_18
+  - first:
+      213: -1709166189894598464
+    second: Villager2IdleRight_19
+  - first:
+      213: -4226714346544823776
+    second: Villager2IdleRight_20
+  - first:
+      213: 7569825337755688895
+    second: Villager2IdleRight_21
+  - first:
+      213: -7820291355723883153
+    second: Villager2IdleRight_22
+  - first:
+      213: 848534732980579987
+    second: Villager2IdleRight_23
+  - first:
+      213: 5370535037913139724
+    second: Villager2IdleRight_24
+  - first:
+      213: 6875177806944430860
+    second: Villager2IdleRight_25
+  - first:
+      213: 6490720884415222829
+    second: Villager2IdleRight_26
+  - first:
+      213: 8758799656492314066
+    second: Villager2IdleRight_27
+  - first:
+      213: 3856298767385164376
+    second: Villager2IdleRight_28
+  - first:
+      213: -3240717431103860096
+    second: Villager2IdleRight_29
+  - first:
+      213: -3961000555373246983
+    second: Villager2IdleRight_30
+  - first:
+      213: 7471936531125474069
+    second: Villager2IdleRight_31
+  - first:
+      213: -2371121538704037133
+    second: Villager2IdleRight_32
+  - first:
+      213: 2568818623859906460
+    second: Villager2IdleRight_33
+  - first:
+      213: -2148541813621904514
+    second: Villager2IdleRight_34
+  - first:
+      213: 7152194083811496019
+    second: Villager2IdleRight_35
+  - first:
+      213: 4800936058590672258
+    second: Villager2IdleRight_36
+  - first:
+      213: 3167494198986473009
+    second: Villager2IdleRight_37
+  - first:
+      213: 3386899800524154371
+    second: Villager2IdleRight_38
+  - first:
+      213: 2701662556208391187
+    second: Villager2IdleRight_39
+  - first:
+      213: 4105271352558719349
+    second: Villager2IdleRight_40
+  - first:
+      213: -2413029419129856718
+    second: Villager2IdleRight_41
+  - first:
+      213: -2230303128276104717
+    second: Villager2IdleRight_42
+  - first:
+      213: -8696543935472437848
+    second: Villager2IdleRight_43
+  - first:
+      213: -8498334998769871243
+    second: Villager2IdleRight_44
+  - first:
+      213: -160618065075977153
+    second: Villager2IdleRight_45
+  - first:
+      213: 5171326251944230723
+    second: Villager2IdleRight_46
+  - first:
+      213: -8500978119081032422
+    second: Villager2IdleRight_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villager2IdleRight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0d554a27f94a4492d9bfa0930ea94
+      internalID: -5685476892437625070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 840
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50c42583391614c9090e256012189e
+      internalID: 5943488155241262831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 840
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604a42f00a68bc4189fe368a47e2157
+      internalID: -7352682629929854501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 840
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dea47d95e6e4e48b02e2fd2b6f9058
+      internalID: 2965700996204750958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 840
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65226827d26c2574987a3111b14251aa
+      internalID: -3869302923856538180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 840
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb59dcc091fa7844a2e8d268d3a7443
+      internalID: -1323694365766513364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8b40c91acc364cb5fc3762a7d3bc9
+      internalID: 2239849440778712667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 720
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a78e8d7c3e06439bc368300c6e0d0
+      internalID: -8379687770362001646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 720
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf1fdf87fd1c346a39e930aaa90f11
+      internalID: -5994535726967489127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 720
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857fc0ee195b8743806c8d9e93907f3
+      internalID: -4313119979736173238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 720
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0a772652e7cd48b1e79ca94494c96
+      internalID: -2141314073705660591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 720
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ee742455adb74ea649d77ecb2e364
+      internalID: 8960930657917304552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df413cd9df04d478dcc3d1ae2c3a4d
+      internalID: -356873980443749835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 600
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d169f094ae8e1f48af409e303663788
+      internalID: 5275928429996765181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 600
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223bf86bc4505c4b944a535b656a779
+      internalID: -3224389164238575142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 600
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248f980b273e724c89c8485a562c8f7
+      internalID: -3733824765049212417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 600
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069033ab8e772134aa1030b163ec576f
+      internalID: -5455252070797813154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 600
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2533673b82d0b547afe3378ca2c7a26
+      internalID: 3812534232715697749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14a0092c4c71d468d0d9294b96cc03
+      internalID: -8273253009850898065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 480
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee78118f5ef9e64587476d607a8d364
+      internalID: -1709166189894598464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 480
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a83d893637844ab5de1f1a0a15297
+      internalID: -4226714346544823776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 480
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af4de46af36af4fb56e26c97a37542
+      internalID: 7569825337755688895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 480
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b50e1309701f42866dca4656e4f4e
+      internalID: -7820291355723883153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 480
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a6e7fae4126d48a3df41a778e6efd
+      internalID: 848534732980579987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85de4add53234304888512e01e3bfd53
+      internalID: 5370535037913139724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 360
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec936e468c615f4fb09b8fa4943dbd7
+      internalID: 6875177806944430860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 360
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632da274da97b1544bac31275c00df10
+      internalID: 6490720884415222829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 360
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3564938e5d900489c3450ec641da53
+      internalID: 8758799656492314066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 360
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311a5b5d679f8a4ab709ec46f520a31
+      internalID: 3856298767385164376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 360
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1100a0262ad7243acbc23db4b0016b
+      internalID: -3240717431103860096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc80e2dacd849b43bcbe1d9a878ba58
+      internalID: -3961000555373246983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 240
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68445c6e707f5714d95b043fb386421c
+      internalID: 7471936531125474069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 240
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e77848d5ea6043b16fa9bab1d89e4
+      internalID: -2371121538704037133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 240
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1cd6100d69c04facd89f3e24a5456
+      internalID: 2568818623859906460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b1f5751b48c57469a046109cd00d1f
+      internalID: -2148541813621904514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_35
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 240
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03796a7bfc520346ad1722bde820993
+      internalID: 7152194083811496019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d18f1e9e81bf49bfaf8a677018125
+      internalID: 4800936058590672258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 120
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855bf21da6c31ba4086b0ef9d3a465b5
+      internalID: 3167494198986473009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 120
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f283c45281bc4f8e43c70d66e27db
+      internalID: 3386899800524154371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 120
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17745365c07d4b4d811ee85a0d324c6
+      internalID: 2701662556208391187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 120
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416927dd7bc8f340a15bb8b8c674100
+      internalID: 4105271352558719349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 120
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d03eddc3aa69a94da19d418cc5a9311
+      internalID: -2413029419129856718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c7f12ff2d208346bd54afa92242616
+      internalID: -2230303128276104717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bc7d4fe2087b94a9423257b45cf191
+      internalID: -8696543935472437848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e33c38957af10b429d840d8fc0e42ed
+      internalID: -8498334998769871243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b1c49c55c748745860214307c9c3e6
+      internalID: -160618065075977153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db5012813ab3441b3e11534e8f9d29
+      internalID: 5171326251944230723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villager2IdleRight_47
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4ba6926a2424647b63b5f6de48e6d4
+      internalID: -8500978119081032422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a4d7a7a58359ec4ba497ee419a79770
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
